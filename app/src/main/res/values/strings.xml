@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Погода</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="registrations">Регистрация</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Вход и регистарция</string>
+    <string name="action_sign_in_short">Вход</string>
+    <string name="error_invalid_email">Некооректный mail адрес</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_incorrect_password">Проверьте правильность набора пароля</string>
+    <string name="error_field_required">Поле является обязательным</string>
+    <string name="permission_rationale">"Заполните контакты"</string>
+    <string name="hello_blank_fragment">Это блан фрагмент</string>
+    <string name="title_activity_start_tabs">Узнаем погоду</string>
+    <string name="action_settings">Настройки</string>
+    <string name="search_city_label_enter">Введите город</string>
+    <string name="search_city_button_enter">Узнать</string>
+    <string name="list_city_label">Погода</string>
+    <string name="city_search">Найти</string>
+    <string name="list_city">Города</string>
+    <string name="maps_city">Карта</string>
+    <string name="information">Подробнее</string>
+    <string name="data_country">Страна</string>
+    <string name="data_city">Город</string>
+    <string name="data_date">Дата</string>
+    <string name="data_time">Время</string>
+    <string name="data_week">День недели</string>
+    <string name="data_temperature">Температура</string>
+    <string name="data_cloud">Облачность</string>
+    <string name="data_wet">Влажность</string>
+    <string name="url_city_search_API">http://api.openweathermap.org/data/2.5/forecast/find?q=</string>
+    <string name="url_apiKey_search_API">APPID=962b8b5a16afdaabbc757160cbbeef20</string>
+    <string name="yes">Да</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

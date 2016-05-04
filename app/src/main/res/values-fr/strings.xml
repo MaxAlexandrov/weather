@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Temps</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="registrations">Enregistrer</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Entrée ou vous inscrire</string>
+    <string name="action_sign_in_short">Entrée</string>
+    <string name="error_invalid_email">Cette adresse email est invalide</string>
+    <string name="error_invalid_password">Ce mot de passe est trop court</string>
+    <string name="error_incorrect_password">Ce mot de passe est incorrect</string>
+    <string name="error_field_required">Ce champ est requis</string>
+    <string name="permission_rationale">"Les autorisations nécessaires Kontakts cotes de grands singes fournissant E-mail kompletions."</string>
+    <string name="hello_blank_fragment">Bonjour forme fragment</string>
+    <string name="title_activity_start_tabs">StartTabsActivity</string>
+    <string name="action_settings">Réglages</string>
+    <string name="search_city_label_enter">Entrez une ville</string>
+    <string name="search_city_button_enter">Consultez la météo</string>
+    <string name="list_city_label">temps</string>
+    <string name="city_search">trouver</string>
+    <string name="list_city">villes</string>
+    <string name="maps_city">carte</string>
+    <string name="information">Atencao</string>
+    <string name="data_country">Emplacement</string>
+    <string name="data_city">Ville</string>
+    <string name="data_date">Date</string>
+    <string name="data_time">Time</string>
+    <string name="data_week">Jour de la semaine</string>
+    <string name="data_temperature">Degrés</string>
+    <string name="data_cloud">Nuées</string>
+    <string name="data_wet">Humidité</string>
+    <string name="yes">We</string>
+</resources>

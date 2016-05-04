@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_59d4ecd6c3184c5c0175dbddf06df869ce5864e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_502e98fcd22ac1b6544052b4a7e4f7c17b6bf988.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_58497c98de7e4dcd439d496df6c81eed2241ce1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_30e84bab7f87c81dfc2f618fbd091ea22db79249.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_535b5e851d0515605a80d4e07a044e054d571529.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_9695f1f6612442bd4f1935baac7e265ac8cd4242.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_4fd6e9701e3dfe71a34fa33a6cd7bc0979436c10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_211064bdb555bf1a56b98b942a2450c944c69b22.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_507c0c70e865cb665ff08f7bc4ee031b0e94659b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_dc4ac716659152812b980fa77ce1c174a854d836.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_9d61d82f1add2aa129033f2b4b7e9a246c81b506.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_a240c47404e24e5478e3efd6b7d6431f487d50e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_da41030b7b79b3eec38789125ba787d97a6f0e42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_f628a74950ac88e16d8dcb722a7d1c0d4f545eae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_68dcdf7dc3e647c1e8a9ca2fa0f608156004b2dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_cfcd26278a9d24415bc87cf4d3ff185557fd549c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_5023ac544ad337f4a0d974377ddfb734023b6dc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_f4f5477f703d7d5e9fc693f7a716afc4498812cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_4e21ca78c73d65ccf02f3dfb60a1bb7eb0f3cba2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_3c8357b99e7471e33dec8f5bdf65f98a219c2bce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_7f1cbd8f36cfef89e5f11580129bcee905594769.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_a02e864a6beee91c005bea9278e37cf73944475f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_fb411b57d40f1cb613b141bbe932b4da7748e515.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_27c4efc47f2eba5a06959891288ff518e7eeee2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_4285778735c64cfb1022f0d5b97fa78a53ca3b81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_a98369c62d9dbcd8153c4663c7d9989b465905f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_b33fd4e5ec555aa443cb092212fc6ca8e852bcf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_253ea4f3d83f5d51b196176cc3cb53b3ee38e012.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\gson-2.2.4_dce66da02218eb6843db2e3646e1d0953cab99ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_e8ce4bcaf12cae62adb11fc913fc9d88eed73c28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_738bde2ae8e5b8f7c428a63a4fb80ffe43888453.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_178ac271d9b24430a97fcdb0f8eee2d6e482537b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_2e8dd327a5fd0f63bd8b07a769678f81ad6615a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_f2ec8279017179b7a69b3943561a277debd4e625.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Maxim\IdeaProjects\weather\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_799aff08eb12a6400b490538619a926675f8e328.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:id="@+id/seach_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+    <EditText
+        android:id="@+id/search_edit_frame"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginTop="20dp"
+        android:inputType="textCapCharacters"
+        android:lines="1"
+        android:hint="@string/search_city_label_enter"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/search_city_button_enter"
+        android:layout_below="@+id/search_edit_frame"
+        android:layout_centerHorizontal="true" />
+     <TextView
+        android:id="@+id/text_information_country"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/search_button"
+         android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/text_information_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/text_information_country"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/text_information_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/text_information_city"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/text_information_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/text_information_data"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/text_information_clouds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/text_information_time"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/text_information_degree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/text_information_clouds"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/text_information_wet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/text_information_degree"
+        android:layout_centerHorizontal="true" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
